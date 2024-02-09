@@ -4,7 +4,7 @@ Splitwise is a RESTful API built using Django Rest Framework. It utilizes SQLite
 
 1. Clone the repository:
 
-git clone "URL",
+git clone "https://github.com/muskan484/splitwise",
 
 2. Commands to run the project
     - python3 -m venv <ENV_NAME>
